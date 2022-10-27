@@ -1,4 +1,4 @@
-#Spurious Regressions test simulation
+# Spurious Regressions test simulation
 
 In this project we try to test how the persistence of a time series can fool the regression to show Spurious Correlation.
 
